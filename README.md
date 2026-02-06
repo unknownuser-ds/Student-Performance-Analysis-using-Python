@@ -1,2 +1,25 @@
-# Student-Performance-Analysis-using-Python
-A beginner-level data analysis project built using Python and pandas. The project analyzes student marks from a CSV file, calculates total and average scores, identifies the class topper, and generates a ranked list of students based on performance.
+Student Performance Analysis
+Overview
+
+A beginner-level Python project using pandas to analyze student marks.
+It calculates total and average scores, finds the class topper, and ranks students.
+
+Features
+
+Reads marks from a CSV file
+
+Calculates total & average per student
+
+Identifies the topper
+
+Saves ranked results to a CSV
+
+How to Run
+
+Install pandas: pip install pandas
+
+Run the script: python analysis.py
+
+Author
+
+FY Data Science student | Learning Python & Data Analys
